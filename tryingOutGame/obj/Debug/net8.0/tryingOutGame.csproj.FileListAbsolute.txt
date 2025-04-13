@@ -1,0 +1,14 @@
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\bin\Debug\net8.0\tryingOutGame.exe
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\bin\Debug\net8.0\tryingOutGame.deps.json
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\bin\Debug\net8.0\tryingOutGame.runtimeconfig.json
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\bin\Debug\net8.0\tryingOutGame.dll
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\bin\Debug\net8.0\tryingOutGame.pdb
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\tryingOutGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\tryingOutGame.AssemblyInfoInputs.cache
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\tryingOutGame.AssemblyInfo.cs
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\tryingOutGame.csproj.CoreCompileInputs.cache
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\tryingOutGame.dll
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\refint\tryingOutGame.dll
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\tryingOutGame.pdb
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\tryingOutGame.genruntimeconfig.cache
+C:\Users\x86uw\Desktop\vscode agtget 07112024\tryingOutGame\obj\Debug\net8.0\ref\tryingOutGame.dll
